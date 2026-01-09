@@ -12,3 +12,6 @@ This project demonstrates effective prompt engineering, variable handling, and c
 - Exactly 5 songs per response
 - Few‑Shot Prompting for consistent output
 - Simple, user‑friendly interaction
+
+- **Live App Link**
+https://udify.app/chat/NTgp6bxTf5lnFR6Q
